@@ -19,7 +19,6 @@ int main()
     printf("\nEnter a number: ");
     scanf("%d", &n);
     r = reverse(n);
-
     printf("\nReverse = %d", r);
 
     return 0;
